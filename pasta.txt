@@ -1,4 +1,4 @@
 rezept: Pasta
 Zutaten: nudel
 Menge: 400g
-
+Personen:2
